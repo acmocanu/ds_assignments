@@ -1,2 +1,2 @@
 # ds_assignments
-Repo to dump the datasets used in assignments
+Repo to upload the datasets used in assignments
